@@ -52,5 +52,5 @@ sudo apt install gnome-shell-extension-manager
   - [For Chrome](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
 
 
-<div align='center'><a href='https://alphaxb.com'><img src='https://www.websitecounterfree.com/c.php?d=9&id=52880&s=1' border='0' alt='Free Website Counter'></a><br / ></div>
+<div align='center'><a href='https://alphaxb.com'><img src='https://www.websitecounterfree.com/c.php?d=9&id=52880&s=1' border='0' alt='Free Website Counter'></a></div>
 <div align='center'>since 25 April 2024</div>
