@@ -7,7 +7,7 @@
 
 ## 🔖 Table of contents
 - [Gnome Extensions](#gnome-extensions-)
-- [Browser Extension](#browser-extensions-)
+- [Browser Extensions](#browser-extensions-)
   - [Essentials](#essentials)
   - [AI-Powered](#ai-powered)
   - [Transform YouTube](#transform-youtube)
