@@ -1,11 +1,11 @@
 # Awesome-Extensions
-[![Awesome](_static/awesome.png)](https://github.com/Vucko130/Awesome-Extensions)
+![awesome Badge](https://img.shields.io/badge/awesome-darkpink?style=flat&logo=awesomelists&logoColor=21091a&labelColor=ba98b4&color=433d60&link=https%3A%2F%2Fgithub.com%2FVucko130%2FAwesome-Extensions)
 ![GitHub Maintained](https://img.shields.io/badge/maintained-yes-green)
 ![GitHub](https://img.shields.io/github/license/Vucko130/Awesome-Extensions?color=blue)
 
 --------------------
 
-## :bookmark: Table of contents
+## 🔖 Table of contents
 - [Gnome Extensions](#gnome-extensions)
 - [Browser Extension](#browser-extensions)
 
@@ -17,7 +17,8 @@ sudo apt-get update
 sudo apt-get upgrade
 sudo apt install gnome-shell-extension-manager
 ```
-## Gnome Extensions :penguin:
+----
+## Gnome Extensions 🐧
 
 **[`^        back to top        ^`](#awesome-extensions)**
 
@@ -39,7 +40,7 @@ sudo apt install gnome-shell-extension-manager
   - [OpenWeather by skrewball](https://extensions.gnome.org/extension/750/openweather/) - Display weather information for any location on Earth in the GNOME Shell.
   - [Desktop Icons NG (DING) by rastersoft](https://extensions.gnome.org/extension/2087/desktop-icons-ng-ding/) - Adds icons to the desktop.
  
-## Browser Extensions :computer:
+## Browser Extensions 💻
 
 **[`^        back to top        ^`](#awesome-extensions)**
 
