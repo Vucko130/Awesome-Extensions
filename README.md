@@ -1,19 +1,25 @@
 # Awesome-Extensions
-[![Awesome](_static/awesome.png)](https://github.com/Vucko130/Awesome-Linux-Extensions)
+[![Awesome](_static/awesome.png)](https://github.com/Vucko130/Awesome-Extensions)
+![GitHub Maintained](https://img.shields.io/badge/maintained-yes-green)
+![GitHub](https://img.shields.io/github/license/Vucko130/Awesome-Extensions?color=blue)
 
 --------------------
 
-## Table of contents
+## :bookmark: Table of contents
 - [Gnome Extensions](#gnome-extensions)
 - [Browser Extension](#browser-extensions)
 
-## Gnome Extensions
+----
+> [!IMPORTANT]
 [Download the Extension Manager](https://github.com/mjakeman/extension-manager)
 ```console
 sudo apt-get update
 sudo apt-get upgrade
 sudo apt install gnome-shell-extension-manager
 ```
+## Gnome Extensions :penguin:
+
+**[`^        back to top        ^`](#awesome-extensions)**
 
 [Gnome Extensions](https://extensions.gnome.org/) customizes the functionality of the Gnome desktop environment.
   - [Dash to Dock by michele_g](https://extensions.gnome.org/extension/307/dash-to-dock) - Say goodbye to the hidden GNOME dock with "Dash to Dock".
@@ -31,10 +37,20 @@ sudo apt install gnome-shell-extension-manager
   - [AppIndicator and KStatusNotifierItem Support by 3v1n0](https://extensions.gnome.org/extension/615/appindicator-support/) - Adds AppIndicator, KStatusNotifierItem and legacy Tray icons support.
   - [GSConnect by dlandau](https://extensions.gnome.org/extension/1319/gsconnect/) - GSConnect is a complete implementation of KDE Connect especially for GNOME Shell with Nautilus, Chrome, and Firefox integration. It does not rely on the KDE Connect desktop application and will not work with it installed.
   - [OpenWeather by skrewball](https://extensions.gnome.org/extension/750/openweather/) - Display weather information for any location on Earth in the GNOME Shell.
+  - [Desktop Icons NG (DING) by rastersoft](https://extensions.gnome.org/extension/2087/desktop-icons-ng-ding/) - Adds icons to the desktop.
  
-## Browser Extensions
+## Browser Extensions :computer:
+
+**[`^        back to top        ^`](#awesome-extensions)**
+
 [Browser Extensions](#browser-extensions) are small software programs that add new features or modify the behavior of web browsers.
-- [Material You New Tab](#Material_You_Tab) - Give your web browser tabs a fresh appearance with the "Material You NewTab" extension.
+- [Material You New Tab](#Material-You-Tab) - Give your web browser tabs a fresh appearance with the "Material You NewTab" extension.
   - [For Firefox](https://addons.mozilla.org/en-US/firefox/addon/material-you-newtab/) `Just Install`
   - [For Chrome](https://github.com/Code-by-imtiyaz/materialYouNewTab) - `Follow the Readme`
-- 
+- [Ublock Origin](#Ublock-origin) - uBlock Origin is not an "ad blocker", it's a wide-spectrum content blocker with CPU and memory efficiency as a primary feature.
+  - [For Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
+  - [For Chrome](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
+
+
+<div align='center'><a href='https://alphaxb.com'><img src='https://www.websitecounterfree.com/c.php?d=9&id=52880&s=1' border='0' alt='Free Website Counter'></a><br / ></div>
+<div align='center'>since 25 April 2024</div>
